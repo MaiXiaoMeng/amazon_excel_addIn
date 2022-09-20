@@ -1,0 +1,3 @@
+﻿<DnaLibrary Name="AmazonExcelUDF" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="AmazonExcelUDF.dll" Pack="true" ExplicitExports="true" />
+</DnaLibrary>
